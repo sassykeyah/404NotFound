@@ -1,0 +1,129 @@
+body {
+  font-family: "input-mono-condensed", monospace;
+  margin: 0;
+  background: #1a1a19;
+  color: #f7f1e5;
+}
+
+.opacity-reveal {
+  opacity: 1;
+}
+
+.scene1 {
+  margin-top: 40vh;
+  margin-left: 2rem;
+  height: 100vh;
+}
+
+.scene1 h1 {
+  font-size: 12em;
+  font-weight: bold;
+  color: #f7f1e5;
+}
+
+.scene2 {
+  max-width: 1400px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 25em;
+}
+
+.scene2 p {
+  font-size: 4em;
+  line-height: 1.5;
+  text-align: left;
+  margin: 0;
+  display: block;
+}
+.scene3 {
+  max-width: 1400px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 25em;
+}
+.scene3 p {
+  font-size: 4em;
+  line-height: 1.5;
+  text-align: left;
+  margin: 0;
+  display: block;
+}
+
+.scene4 {
+  max-width: 1400px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 25em;
+}
+.scene4 p {
+  font-size: 4em;
+  line-height: 1.5;
+  text-align: left;
+  margin: 0;
+  display: block;
+}
+.button {
+  font-family: "input-mono-condensed", monospace;
+  font-size: 4em;
+  padding: 0.2em 0.5em;
+  margin-top: 2em;
+  margin-left: 1em;
+  background-color: #f7f1e5;
+  color: #1a1a19;
+  border: none;
+  border-radius: 2em;
+  cursor: pointer;
+}
+
+.scene5 {
+  max-width: 1400px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 25em;
+}
+.scene5 p {
+  font-size: 4em;
+  line-height: 1.5;
+  text-align: left;
+  margin: 0;
+  display: block;
+}
+
+.scene6 {
+  max-width: 1400px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 25em;
+}
+.scene6 p {
+  font-size: 4em;
+  line-height: 1.5;
+  text-align: left;
+  margin: 0;
+  display: block;
+}
