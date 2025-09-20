@@ -80,9 +80,7 @@ document.addEventListener("DOMContentLoaded", function() {
             start: 'top 80%',
             toggleActions: 'play none none none'
           },
-          onComplete: () => {
-            console.log('Scene4 animation complete');
-          }
+          
         });
       }
     }
