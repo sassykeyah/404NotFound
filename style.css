@@ -4,7 +4,16 @@ body {
   background: #1a1a19;
   color: #f7f1e5;
 }
-
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #1a1a19;
+  color: #f7f1e5;
+  text-align: center;
+  padding: 0.5em 0;
+  z-index: 1000;
+}
 .opacity-reveal {
   opacity: 1;
 }
@@ -63,14 +72,15 @@ body {
   max-width: 1400px;
   height: 100vh;
   margin: 0 auto;
-  padding: 1em;
+  padding: 2em;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  margin-top: 25em;
+  margin-top: 10em;
 }
 .scene4 p {
+  
   font-size: 4em;
   line-height: 1.5;
   text-align: left;
@@ -81,8 +91,8 @@ body {
   font-family: "input-mono-condensed", monospace;
   font-size: 4em;
   padding: 0.2em 0.5em;
-  margin-top: 2em;
-  margin-left: 1em;
+  margin-top: 4em;
+  margin-left: 2em;
   background-color: #f7f1e5;
   color: #1a1a19;
   border: none;
@@ -121,7 +131,7 @@ body {
   margin-top: 25em;
 }
 .scene6 p {
-  font-size: 4em;
+  font-size: 10em;
   line-height: 1.5;
   text-align: left;
   margin: 0;
