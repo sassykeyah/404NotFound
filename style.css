@@ -137,28 +137,3 @@ header {
   margin: 0;
   display: block;
 }
-@media screen and (max-width: 1440px) {
-  .scene1 {
-    margin-top: 30vh;
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
-  }
-  
-  .scene1 h1 {
-    font-size: 6em;
-    white-space: nowrap;
-  }
-}
-
-@media screen and (max-width: 1200px) {
-  .scene1 {
-    margin-top: 25vh;
-    margin-left: 1rem;
-    margin-right: 1rem;
-  }
-  
-  .scene1 h1 {
-    font-size: 4.5em;
-    white-space: nowrap;
-  }
-}
